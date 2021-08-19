@@ -1,4 +1,4 @@
-package com.zcx.mutiProcessDownloader.util;
+package com.zcx.mutiThreadDownloader.util;
 
 import java.io.IOException;
 import java.net.HttpURLConnection;

@@ -1,4 +1,4 @@
-package com.zcx.mutiProcessDownloader.constant;
+package com.zcx.mutiThreadDownloader.constant;
 
 public class Constant { //配置信息类
 

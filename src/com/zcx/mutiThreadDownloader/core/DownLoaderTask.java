@@ -1,8 +1,8 @@
-package com.zcx.mutiProcessDownloader.core;
+package com.zcx.mutiThreadDownloader.core;
 
-import com.zcx.mutiProcessDownloader.constant.Constant;
-import com.zcx.mutiProcessDownloader.util.HttpUtils;
-import com.zcx.mutiProcessDownloader.util.LogUtils;
+import com.zcx.mutiThreadDownloader.constant.Constant;
+import com.zcx.mutiThreadDownloader.util.HttpUtils;
+import com.zcx.mutiThreadDownloader.util.LogUtils;
 
 import java.io.*;
 import java.net.HttpURLConnection;

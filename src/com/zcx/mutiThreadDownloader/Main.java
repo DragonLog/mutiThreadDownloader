@@ -1,7 +1,7 @@
-package com.zcx.mutiProcessDownloader;
+package com.zcx.mutiThreadDownloader;
 
-import com.zcx.mutiProcessDownloader.core.Downloader;
-import com.zcx.mutiProcessDownloader.util.LogUtils;
+import com.zcx.mutiThreadDownloader.core.Downloader;
+import com.zcx.mutiThreadDownloader.util.LogUtils;
 
 import java.util.Scanner;
 

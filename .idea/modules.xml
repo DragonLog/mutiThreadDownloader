@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/mutiProcessDownloader.iml" filepath="$PROJECT_DIR$/mutiProcessDownloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mutiThreadDownloader.iml" filepath="$PROJECT_DIR$/mutiThreadDownloader.iml" />
     </modules>
   </component>
 </project>
