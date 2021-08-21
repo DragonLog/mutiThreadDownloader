@@ -14,4 +14,4 @@
 ***
 > **[动力节点线下资料](http://www.bjpowernode.com/javavideo/235.html)**
 
-![示例图片](https://github.com/DragonLog/mutiProcessDownloader/blob/main/pictureForExample/show.png?raw=true)
+![示例图片](https://github.com/DragonLog/mutiThreadDownloader/blob/main/pictureForExample/show.png)
