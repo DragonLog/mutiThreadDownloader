@@ -13,5 +13,6 @@
 > **注：此程序为控制台程序，有兴趣的同学可以为其添加UI界面使其更像是一款真正的下载器。** 
 ***
 > **[动力节点线下资料](http://www.bjpowernode.com/javavideo/235.html)**
-
+> **[哔哩哔哩在线课程](https://www.bilibili.com/video/BV1Rv411y7MU?vd_source=b03bfffc44ef99d2c8a183e364f3ef9d)**
+***
 ![示例图片](https://github.com/DragonLog/mutiThreadDownloader/blob/main/pictureForExample/show.png)
